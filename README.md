@@ -1,4 +1,4 @@
-# Cyber-Lab
+# Cyber Lab
 
 ## Objective
 
